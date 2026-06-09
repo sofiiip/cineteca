@@ -7,7 +7,7 @@ privada de cada usuario.
 
 > Trabajo Práctico N.º 2 — **Aplicación Serverless**
 
-**🔗 Demo en producción:** _(ver despliegue en Vercel)_
+**🔗 Demo en producción:** https://cineteca-rho.vercel.app
 
 ---
 
